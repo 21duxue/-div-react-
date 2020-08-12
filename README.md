@@ -1,2 +1,8 @@
-# -div-react-
-ResizeDivReact
+# 在React中实现可调整宽高的div #
+
+* 实现高度和宽度可调整
+* 按住鼠标拖动水平bar和垂直bar开始调整，鼠标放开或者移出区域停止调整
+* 窗口resize时自适应，并且不影响宽高的调整
+* 设定宽高上下限，不能使宽高太小或者太大
+
+相关博客地址：[实现可调整宽高的DIV（左右拖动和上下拖动）](https://www.cnblogs.com/vvjiang/p/10117994.html)
